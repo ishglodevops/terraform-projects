@@ -129,7 +129,7 @@ resource "aws_instance" "my-web-server" {
  
  user_data = <<-EOF
                 #!/bin/bash
-                sudo 
+                sudo hostnamectl set-hostname web-server
                 sudo apt update -y
                 sudo apt install apache2 -y
                 sudo systemctl start apache2

@@ -1,0 +1,9 @@
+FirstProject/terraform.tfstate
+FirstProject/.terraform*
+FirstProject/terraform.tfstate.backup
+VPC/terraform.tfstate
+VPC/.terraform*
+VPC/terraform.tfstate.backup
+terraform.tfstate
+terraform.tfstate.backup
+.terraform*

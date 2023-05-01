@@ -42,3 +42,9 @@ test3-dynamic/.terraform*
 test4-mapslist/terraform.tfstate
 test4-mapslist/terraform.tfstate.backup
 test4-mapslist/.terraform*
+test-s3-bucket/.terraform*
+test-s3-bucket/terraform*
+S3/.terraform*
+S3/terraform*
+backend-remote/terraform*
+backend-remote/.terraform*
